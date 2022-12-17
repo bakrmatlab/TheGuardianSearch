@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Work/TERM-3/Mobile/GuardianSearch-main/app/src/main/res/layout-w720dp/activity_main.xml" value="0.4691358024691358" />
+        <entry key="..\:/Work/TERM-3/Mobile/GuardianSearch-main/app/src/main/res/layout/activity_empty.xml" value="0.4379528985507246" />
+        <entry key="..\:/Work/TERM-3/Mobile/GuardianSearch-main/app/src/main/res/layout/activity_favourites.xml" value="0.4379528985507246" />
+        <entry key="..\:/Work/TERM-3/Mobile/GuardianSearch-main/app/src/main/res/layout/activity_main.xml" value="0.4904891304347826" />
+        <entry key="..\:/Work/TERM-3/Mobile/GuardianSearch-main/app/src/main/res/layout/fragment_details.xml" value="0.4379528985507246" />
+        <entry key="..\:/Work/TERM-3/Mobile/GuardianSearch-main/app/src/main/res/layout/row_layout.xml" value="0.4904891304347826" />
+        <entry key="..\:/Work/TERM-3/Mobile/GuardianSearch/app/src/main/res/layout-w720dp/activity_main.xml" value="0.28174123337363965" />
+        <entry key="..\:/Work/TERM-3/Mobile/GuardianSearch/app/src/main/res/layout/activity_empty.xml" value="0.4904891304347826" />
+        <entry key="..\:/Work/TERM-3/Mobile/GuardianSearch/app/src/main/res/layout/activity_favourites.xml" value="0.5088541666666667" />
+        <entry key="..\:/Work/TERM-3/Mobile/GuardianSearch/app/src/main/res/layout/activity_main.xml" value="0.5088541666666667" />
+        <entry key="..\:/Work/TERM-3/Mobile/GuardianSearch/app/src/main/res/layout/fragment_details.xml" value="0.5088541666666667" />
+        <entry key="..\:/Work/TERM-3/Mobile/GuardianSearch/app/src/main/res/layout/row_layout.xml" value="0.5088541666666667" />
+        <entry key="..\:/Work/TERM-3/Mobile/GuardianSearch/app/src/main/res/menu/drawer.xml" value="0.31354166666666666" />
+        <entry key="app/src/main/res/layout-w720dp/activity_main.xml" value="0.11860670194003527" />
+        <entry key="app/src/main/res/layout/activity_empty.xml" value="0.14010416666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.14010416666666667" />
+        <entry key="app/src/main/res/layout/fragment_details.xml" value="0.14010416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

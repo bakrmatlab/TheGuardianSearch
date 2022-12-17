@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" La recherche du gardien"</string>
+    <string name="search">" Chercher"</string>
+    <string name="open">Ouvrir</string>
+    <string name="close">proche</string>
+    <string name="about">"À propos "</string>
+    <string name="saved">"enregistré "</string>
+    <string name="home">Domicile</string>
+</resources>
